@@ -1,0 +1,37 @@
+# Environment variables
+.env
+.env.*
+.env.local
+
+# Local Claude instructions (not for public repo)
+.claude/
+
+# Tracking files
+docs/REDDIT_HISTORY.md
+
+# IDE files
+*.code-workspace
+.vscode/
+.idea/
+
+# MCP local files
+.playwright-mcp/
+
+# Windows zone files
+*:Zone.Identifier
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Original source file
+docker_swarm_reddit_article_complete.md
+
+# Future article content
+docs/DATADOG_CONTENT.md
